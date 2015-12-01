@@ -1,2 +1,4 @@
 # contact-list-app
-LHL W2 Assignment 
+LHL Contactlist v3 
+
+Used Active Record
